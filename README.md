@@ -1,4 +1,7 @@
 # 3Dpuppeteering
+[[Demo](https://webglstudio.org/demos/puppeteering/latest/)]
+[[Related paper](https://webglstudio.org/papers/ICGI2019/)]
+
 Web application for real time puppeteering of a virtual actor. The character can be controlled using a webcam (default) or a gamepad.
 
 ![alt text](https://webglstudio.org/papers/ICGI2019/preview.png)
@@ -21,6 +24,3 @@ The available expressions are represented in a 2d circumplex space (Valence-Arou
 
 > # Lip sync
 In the gamepad mode you can also activate the lip synchronization with your voice. For this, a microphone is required.
-
-[[Demo](https://webglstudio.org/demos/puppeteering/latest/)]
-[[Related paper](https://webglstudio.org/papers/ICGI2019/)]
