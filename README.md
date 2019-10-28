@@ -2,7 +2,9 @@
 [[Demo](https://webglstudio.org/demos/puppeteering/latest/)]
 [[Related paper](https://webglstudio.org/papers/ICGI2019/)]
 
-Web application for real time puppeteering of a virtual actor. The character can be controlled using a webcam (default) or a gamepad.
+Web application for real time animation of a virtual actor. The character can be controlled using a webcam (default) or a gamepad. 
+
+This project is developed in [WebGLStudio](https://webglstudio.org/) and uses the [Beyond Reality Face (v4)](https://github.com/Tastenkunst/brfv4_javascript_examples) library for facial landmark tracking.
 
 ![alt text](https://webglstudio.org/papers/ICGI2019/preview.png)
 
