@@ -43,7 +43,7 @@ Lipsync.prototype.onStart = function()
 Lipsync.prototype.onExecute = function()
 {
   var source = this.getInputData(1)
-  if(source.buffer){
+  if(source&&source.buffer){
     this.sourceNode = this.audioContext.createBufferSource();
   	this.sourceNode.buffer = source.buffer
     this.sourceNode.connect(this.audioContext.destination);
